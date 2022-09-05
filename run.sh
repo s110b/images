@@ -5,7 +5,7 @@ pid=`ps -ef|grep $App | grep -v grep|awk '{print $2}' `
 
 
 demoFun(){
-    echo "这是我的第一个 shell 函数!"
+    echo "这是我的第一个 shell 函数!!!!!"
 }
 demoFun
 killProsess() {
