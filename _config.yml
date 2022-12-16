@@ -1,27 +1,27 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: " 用目标说话，用产出说话，用结果说话。!"
+name: "一点微小的工作"
+title: "西去无狗"
+description: " 该评论经过审核，可以放心观看!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'xiquwugou'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: xiqu.wugou@gmail.com
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: fengaili
+    display_name: fengaili
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
+    email: xiqu.wugou@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "自讨苦吃，苦必随之"
   john:
     name: John
     display_name: John    
