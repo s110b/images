@@ -4,7 +4,8 @@ title:  "听相声"
 author: sal
 categories: [ Lifestyle ]
 tags: [ France ]
-image: assets/images/2.jpg
+image: https://user-images.githubusercontent.com/111761629/208087239-0951df58-725c-4a6a-a56c-f35d0a692889.PNG
+
 rating: 4.5
 ---
 
