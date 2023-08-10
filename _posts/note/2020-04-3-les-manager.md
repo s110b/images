@@ -4,7 +4,7 @@ title:  "管理"
 author: fengaili
 categories: [ Lifestyle ]
 tags: [ France ]
-image: https://user-images.githubusercontent.com/111761629/259635031-471917c0-8f88-4b08-aa80-6e946e8fcc83.png
+image: https://user-images.githubusercontent.com/111761629/259638031-74e59a46-c009-4fd1-922c-96ffda77cc76.png
 
 rating: 5
 ---
