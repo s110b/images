@@ -2,7 +2,7 @@
 layout: post
 title:  "github aciton 简单使用"
 author: feng
-categories: [ 学习 ]
+categories: [ tech ]
 tags: [ tech ]
 rating: 4.5
 ---
