@@ -29,12 +29,7 @@ rating: 4.5
 
 <table> <tr> <th>平台</th> <th>链接</th> </tr> <tr> <td>Render</td> <td><a href="https://vip-20y5.onrender.com/" target="_blank">Render</a></td> </tr> <tr> <td>Cloudflare</td> <td><a href="https://vip-coi.pages.dev/" target="_blank">Cloudflare</a></td> </tr> <tr> <td>Vercel</td> <td><a href="https://vip-puce.vercel.app/" target="_blank">Vercel</a></td> </tr> <tr> <td>Netlify</td> <td><a href="https://aesthetic-sprite-d13736.netlify.app/" target="_blank">Netlify</a></td> </tr> </table>
 
-| 平台      | 链接                                                 |
-| --------- | ---------------------------------------------------- |
-| Render    | [Render](https://vip-20y5.onrender.com/)              |
-| Cloudflare | [Cloudflare](https://vip-coi.pages.dev/)              |
-| Vercel    | [Vercel](https://vip-puce.vercel.app/)                |
-| Netlify   | [Netlify](https://aesthetic-sprite-d13736.netlify.app/) |
+
 
 利用action可以实现，在编译后同步部署到这些网站。这些静态网站有些提供cdn，访问可能会快点。
 参考示例：s110b/vip中的workflow action
