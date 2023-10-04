@@ -26,10 +26,13 @@ rating: 4.5
 ###  同步到其他的网站部署
 有很多免费提供静态网站部署的大站。
 比如：
-render       https://vip-20y5.onrender.com/
-cloudflare   https://vip-coi.pages.dev/
-vercel       https://vip-puce.vercel.app/
-netlify      https://aesthetic-sprite-d13736.netlify.app/
+| 平台      | 链接                                                 |
+| --------- | ---------------------------------------------------- |
+| Render    | [Render](https://vip-20y5.onrender.com/)              |
+| Cloudflare | [Cloudflare](https://vip-coi.pages.dev/)              |
+| Vercel    | [Vercel](https://vip-puce.vercel.app/)                |
+| Netlify   | [Netlify](https://aesthetic-sprite-d13736.netlify.app/) |
+
 利用action可以实现，在编译后同步部署到这些网站。这些静态网站有些提供cdn，访问可能会快点。
 参考示例：s110b/vip中的workflow action
 
